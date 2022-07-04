@@ -1,0 +1,11 @@
+.card {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.image {
+    width: 200px;
+    height: 250px;
+    object-fit: cover;
+    border: 10px solid rgb(225, 144, 22);
+}
